@@ -1,11 +1,9 @@
 <h1>Hi, I'm Leo Roel Manalansan! <br/><a href="[https://github.com/NotCepheii]">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/leo-roel-manalansan/">
 
-<h2>👨‍💻 On-Going Projects:</h2>
-- Active Directory Lab
-- Peneration Testing Lab
-- SOC Analyst SIEM Lab
-- Website that gives you horrible deals.
+<h2>👨‍💻 Projects:</h2>
 
+- <b>SOC Analyst Project (AlgoExpert)</b>
+  - IN PROGRESS
 
 <h2> 🤳 Connect with me:</h2>
 
